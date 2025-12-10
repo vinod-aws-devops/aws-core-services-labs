@@ -28,7 +28,7 @@ IAM Policy → Allows List/Get/Put only for: arn:aws:s3:::mydemo-s3-bucket-v3/*
       ▼
 S3 Bucket: mydemo-s3-bucket-v3
 
-images/architecture.png
+![Alt Text](images/architecture.png)
 
 ```
 
@@ -124,17 +124,14 @@ https://ap-south-1.console.aws.amazon.com/s3/buckets/mydemo-s3-bucket-v3
 
 ---
 ## Screenshots:
-images/img-1.png
 
-images/img-2.png
+![Screenshot 1](images/img-1.png)
+![Screenshot 2](images/img-2.png)
+![Screenshot 3](images/img-3.png)
+![Screenshot 4](images/img-4.png)
+![Screenshot 5](images/img-5.png)
+![Screenshot 6](images/img-6.png)
 
-images/img-3.png
-
-images/img-4.png
-
-images/img-5.png
-
-images/img-6.png
 
 ## ✅ Lab Status: Completed
 

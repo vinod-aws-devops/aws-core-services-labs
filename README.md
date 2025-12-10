@@ -1,4 +1,4 @@
-# 🟦 AWS Core Services Labs — Hands-On Real Time Scenerios
+#  AWS Core Services Labs — Hands-On Real Time Scenerios
 
 Welcome to **AWS Core Services Labs**, a complete hands-on, real-world lab scenerio based collection designed to demonstrate expertise in **AWS Cloud, DevOps, Infrastructure-as-Code, Security, Networking, Automation, and Monitoring**.
 
@@ -7,7 +7,7 @@ It showcases architecture skills, best practices, automation capabilities, and e
 
 ---
 
-## 🚀 Why This Repository Exists
+## Why This Repository Exists?
 
 AWS roles expect strong practical knowledge of:
 
@@ -26,15 +26,15 @@ This repo helps demonstrate **hands-on skills**, not just theory—making it ide
 
 ---
 ## Services Covered :
-|---compute/ # EC2, Auto Scaling, Lambda
-├── networking/ # VPC, Subnets, NAT, Routing
-├── security/ # IAM, KMS, Secrets Manager, SCPs
-├── storage/ # S3, EFS, FSx
-├── database/ # RDS, DynamoDB
-├── serverless/ # Lambda, API Gateway, Step Functions
-├── containers/ # ECS, EKS, Fargate
-├── monitoring/ # CloudWatch, X-Ray, Metrics, Logs
-├── identity-federation/ # SSO, SAML, IAM Identity Center
+.compute/ # EC2, Auto Scaling, Lambda
+.networking/ # VPC, Subnets, NAT, Routing
+.security/ # IAM, KMS, Secrets Manager, SCPs
+.storage/ # S3, EFS, FSx
+.database/ # RDS, DynamoDB
+.serverless/ # Lambda, API Gateway, Step Functions
+.containers/ # ECS, EKS, Fargate
+.monitoring/ # CloudWatch, X-Ray, Metrics, Logs
+.identity-federation/ # SSO, SAML, IAM Identity Center
 ##  Repository Structure
 
 Labs are grouped by AWS service category.  
