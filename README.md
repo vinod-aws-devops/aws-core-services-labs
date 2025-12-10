@@ -26,15 +26,15 @@ This repo helps demonstrate **hands-on skills**, not just theory—making it ide
 
 ---
 ## Services Covered :
-1.compute: EC2, Auto Scaling, Lambda
-2.networking:VPC, Subnets, NAT, Routing
-3.security: IAM, KMS, Secrets Manager, SCPs
-4.storage: S3, EFS, FSx
-5.database: RDS, DynamoDB
-6.serverless: Lambda, API Gateway, Step Functions
-7.containers: ECS, EKS, Fargate
-8.monitoring: CloudWatch, X-Ray, Metrics, Logs
-9.identity-federation: SSO, SAML, IAM Identity Center
+- compute: EC2, Auto Scaling, Lambda
+- networking:VPC, Subnets, NAT, Routing
+- security: IAM, KMS, Secrets Manager, SCPs
+- storage: S3, EFS, FSx
+- database: RDS, DynamoDB
+- serverless: Lambda, API Gateway, Step Functions
+- containers: ECS, EKS, Fargate
+- monitoring: CloudWatch, X-Ray, Metrics, Logs
+- identity-federation: SSO, SAML, IAM Identity Center
 
 ##  Repository Structure:
 Labs are grouped by AWS service category.  
