@@ -28,10 +28,8 @@ IAM Policy → Allows List/Get/Put only for: arn:aws:s3:::mydemo-s3-bucket-v3/*
       ▼
 S3 Bucket: mydemo-s3-bucket-v3
 
-![Alt Text](images/architecture.png)
-
 ```
-
+![Alt Text](images/architecture.png)
 ---
 
 ## Custom IAM Policy (Single Bucket Access):
@@ -116,7 +114,7 @@ https://ap-south-1.console.aws.amazon.com/s3/buckets/mydemo-s3-bucket-v3
 
 ---
 
-## 📘 Notes
+## Notes:
 - https://ap-south-1.console.aws.amazon.com/s3/buckets/my-demo-bucket-test-v1
 - “Access Denied” on the S3 dashboard is **normal** for least-privilege IAM.
 - This lab mirrors real-world IAM best practices.
@@ -126,10 +124,15 @@ https://ap-south-1.console.aws.amazon.com/s3/buckets/mydemo-s3-bucket-v3
 ## Screenshots:
 
 ![Screenshot 1](images/img-1.png)
+
 ![Screenshot 2](images/img-2.png)
+
 ![Screenshot 3](images/img-3.png)
+
 ![Screenshot 4](images/img-4.png)
+
 ![Screenshot 5](images/img-5.png)
+
 ![Screenshot 6](images/img-6.png)
 
 
