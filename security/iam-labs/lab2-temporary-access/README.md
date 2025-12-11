@@ -128,3 +128,15 @@ This lab reinforces secure IAM practices by granting temporary least-privilege a
 
 
 ![Screenshot 5](images/img-5.png)
+
+
+![Screenshot 6](images/img-6.png)
+
+
+![Screenshot 7](images/img-7.png)
+
+
+![Screenshot 8](images/img-8.png)
+
+
+![Screenshot 9](images/img-9.png)
