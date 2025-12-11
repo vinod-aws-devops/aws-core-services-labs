@@ -59,6 +59,8 @@ aws iam add-user-to-group --user-name junior-dev --group-name S3-Editors
 ---
 ## Policy Used:
 
+```bash
+
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -73,6 +75,7 @@ aws iam add-user-to-group --user-name junior-dev --group-name S3-Editors
     ]
 }
 
+```
 ---
 ### Policy Simulator
 Use IAM Policy Simulator to test actions.
